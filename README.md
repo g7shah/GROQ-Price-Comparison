@@ -14,7 +14,7 @@ This project automates grocery price comparison using Groq's **Llama-3.2-11b-Vis
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/grocery-price-bot.git
+git clone https://github.com/g7shah/GROQ-Price-Comparison.git
 cd grocery-price-bot
 ```
 
