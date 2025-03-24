@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ### 4. Run the Notebook
 Execute the Jupyter Notebook to extract grocery prices:
 ```bash
-jupyter notebook Updated_Notebook.ipynb
+jupyter notebook PriceComparison.ipynb
 ```
 
 ### 5. Connect to WhatsApp
