@@ -43,4 +43,3 @@ Deploy the Twilio bot and send a message with an item name (e.g., `"Tomatoes"`) 
 
 ---
 Check out the project in action and feel free to contribute! 🎉
-```
