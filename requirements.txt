@@ -1,0 +1,5 @@
+openai
+pandas
+Flask
+twilio
+PyMuPDF
